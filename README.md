@@ -6,7 +6,7 @@
 
 ## Motivazioni
 
-Chiunque abbia lanciato un sito web o un progetto si è trovato a cercare documenti come termini d'uso, privacy polocy, NDA o contratti di collaborazione o di vendita.
+Chiunque abbia lanciato un sito web o un progetto si è trovato a cercare documenti come termini d'uso, privacy policy, NDA o contratti di collaborazione o di vendita.
 
 Spesso la ricerca ha portato a copiare e modificare documentazione trovata su altri siti o ricevuta in altre occasioni.
 
@@ -24,7 +24,7 @@ Se vuoi contribuire devi:
 
 1. fare un **fork** del progetto principale in una copia privata
 2. creare un nuovo documento o modificarne uno esistente 
-3. fare una richiesta di integrazione nel progeggo principale (**pull-request**)
+3. fare una richiesta di integrazione nel progetto principale (**pull-request**)
 
 È possibile eseguire tutte queste operazioni direttamente via web senza lasciare GitHub: fai riferimento alla [guida per contribuire con fork e pull-request](https://help.github.com/articles/fork-a-repo) e alla guida sulla [modifica dei file tramite l'editor web](https://github.com/blog/905-edit-like-an-ace).
 
@@ -58,7 +58,7 @@ I documenti devono essere **in formato testo** (possibilmente in codifica `UTF-8
 
 La cosa importante in questo progetto è condividere le informazioni, non le scelte di immagine o di font.
 
-Se proprio non puoi fare della formattazione, utilizza il **formato Markdown** (estensione `.md`) che permette di descrivere la formattazione utilizzando dei codici testuali ed è [facilmente convertibile in altri formati](http://johnmacfarlane.net/pandoc/) (questo testo è scritto in MarkDown).
+Se proprio non puoi fare a meno della formattazione, utilizza il **formato Markdown** (estensione `.md`) che permette di descrivere la formattazione utilizzando dei codici testuali ed è [facilmente convertibile in altri formati](http://johnmacfarlane.net/pandoc/) (questo testo è scritto in MarkDown).
 
 #### Licenza d'uso
 
@@ -72,7 +72,7 @@ Quest'opera è stata rilasciata con licenza Creative Commons Attribuzione 3.0 It
 
 Crea il file del tuo documento nella categoria relativa, o se pensi che non ci sia una categoria adatta creane una.
 
-Queste sono le categoria attuali:
+Queste sono le categorie attuali:
 
 * **impiego**: contratti di assunzione e collaborazione
 * **vendita**: contratti di vendita e acquisto servizi e forniture
