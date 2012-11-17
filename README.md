@@ -50,7 +50,7 @@ Segui la guida su fork e pull-request appena citata, modificando il file e chied
 
 #### Lingua
 
-Il documento deve essere in lingua Italiana. Questo progetto è focalizzato sull'Italia e le startup italiane, esistono già molte collezioni di documenti in lingua inglese (`TODO: link`).
+Il documento deve essere in lingua Italiana. Questo progetto è focalizzato sull'Italia e le startup italiane, esistono già molte collezioni di documenti in lingua inglese, come ad esempio:  [Docracy](http://www.docracy.com/), [Simplydocs](http://simply-docs.co.uk), [RealDealDocs](http://www.realdealdocs.com/) .
 
 #### Formato
 
